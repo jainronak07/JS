@@ -20,4 +20,4 @@ function greet(greeting){
     console.log(`${greeting}, my name is ${this.name} and I am ${this.age} years old.`)
 }   
 
-greet.mycall(person,'Hello') // Output: Hello, my name is John and I am 30 years old.
+greet.mycall(person,'Hello') // Output: Hello, my name is John and I am 30 years old
